@@ -31,7 +31,7 @@ export default class Profile extends Component {
     } else {
       return (
         <View style={styles.container}>
-          <Text>Profile</Text>
+          <Text>Perfil</Text>
         </View>
       );
     }
